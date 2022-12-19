@@ -21,6 +21,7 @@
       "accept_Button_text": "adsh",
       "accept_Button_Link": "dsd",
       "cancel_Dialog_Close": "fdfd" // true or flase
+       "adsservices": "admob" // admob or facebook
     }
   ]
 }
