@@ -7,6 +7,9 @@
       "Update_Button_text": "update",
       "Link": "Your",
       "Update_Dialog_Close": "true",
+      
+      
+      // main tike tika
       "LOimg1": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/1.jpg", // supiri
       "SUimg2": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/3.jpg", // duca
       "DUimg3": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/4.jpg", //sara
@@ -14,6 +17,16 @@
       "Raimg5": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/6.jpg", // pinthura
       "Piimg6": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/7.jpg", // mema
       "MEimg7": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/2.jpg",        // adara wadan
+      
+      
+      // store tika
+      "STimg1": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/1.jpg",
+       "STimg2": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/1.jpg",
+       "STimg3": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/1.jpg",
+       "STimg4": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/1.jpg",
+       "STimg5": "https://raw.githubusercontent.com/NADURN/QMaker/main/MAIN%20SILDER/1.jpg",
+      
+      
       "idd": "00",  // 00 gahuwama wada karanne na
       "title": "aaaaa",
       "message": "ttttttttt",
@@ -21,6 +34,8 @@
       "accept_Button_text": "adsh",
       "accept_Button_Link": "dsd",
       "cancel_Dialog_Close": "fdfd", // true or flase
+      
+      
       "adsservices": "admob" // admob or facebook
     }
   ]
