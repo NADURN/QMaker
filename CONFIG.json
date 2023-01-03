@@ -1,11 +1,11 @@
 {
   "rows": [
     {
-      "Version_code": 2,
-      "Update_Title": "New",
+      "Version_code": 3,
+      "Update_Title": "New Update",
       "Update_Message": "latest",
       "Update_Button_text": "update",
-      "Link": "Your",
+      "Link": "https://play.google.com/store/apps/details?id=com.cy.QuoteMaker",
       "Update_Dialog_Close": "false", // true or false
       
       
