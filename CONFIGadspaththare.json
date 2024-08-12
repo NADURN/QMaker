@@ -10,17 +10,17 @@
       "imageUrl": "https://static.vecteezy.com/system/resources/previews/001/879/444/non_2x/application-form-for-accepting-new-employees-hiring-employees-by-reading-cv-and-resume-choose-worker-on-job-resume-agency-interview-illustration-for-business-card-banner-brochure-flyer-free-vector.jpg",
 
       "description": "First image description",
-      "link": "https://example.com/page1"
+      "link": "link"
     },
     {
       "imageUrl": "https://cdni.iconscout.com/illustration/premium/thumb/job-application-2161927-1816233.png",
       "description": "Second image description",
-      "link": "https://example.com/page2"
+      "link": "link"
     },
     {
       "imageUrl": "https://cdni.iconscout.com/illustration/premium/thumb/appreciation-for-new-job-2161933-1816239.png",
       "description": "Third image description",
-      "link": "https://example.com/page3"
+      "link": "link"
     }
   ]
 }
