@@ -1,6 +1,6 @@
 {
   "appUpdate": {
-    "version": "1.2.3",
+    "version": "1",
     "updateUrl": "https://example.com/update",
     "forceUpdate": false,
     "releaseNotes": "New features and bug fixes."
